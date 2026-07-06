@@ -40,7 +40,7 @@ A comprehensive collection of Machine Learning algorithms and concepts, covering
 * Accuracy, Precision, Recall, F1-Score
 * ROC-AUC
 * Confusion Matrix
-* Regression Metrics (MAE, MSE, RMSE, R²)
+* Regression Metrics (MAE, MSE, RMSE, R², Adjusted R²)
 
 ## 🛠️ Technologies
 
@@ -51,7 +51,5 @@ A comprehensive collection of Machine Learning algorithms and concepts, covering
 * Seaborn
 * Scikit-learn
 * Jupyter Notebook
+* GBDT
 
-## 🎯 Purpose
-
-This repository is designed for students, data scientists, and AI/ML engineers who want to learn Machine Learning concepts through practical implementations, visualizations, and real-world examples. It serves as a valuable resource for interview preparation, academic learning, and hands-on ML development.
