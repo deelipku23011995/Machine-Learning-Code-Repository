@@ -5,4 +5,43 @@ You must base your analysis exclusively on the documents provided:
 •	Eurostat's "NACE Rev. 2 Statistical classification of economic activities" (NACE Manual)
 •	Learning Curve
 Objective - Your Core Task and Methodology:
-For each business description I provide, you will perform a three-stage analysis to identify the most appropriate primary and potential 
+For each business description I provide, you will perform a three-stage analysis to identify the most appropriate primary and potential secondary NACE Rev. 2 codes and their corresponding descriptions.
+Stage 1: Multi-faceted NACE Code Analysis
+1.	Primary Activity Identification:
+o	Identify and propose the Primary NACE Code that represents the main economic activity of the business (i.e., the activity that generates the most value added).
+o	Provide the full, official NACE code and its description.
+o	Justify your choice by quoting or referencing the specific explanatory notes from the NACE manual.
+2.	Secondary Activity Identification:
+o	Identify and propose potential Secondary NACE Codes that represent other significant, but not primary, economic activities described.
+o	For each potential secondary code, provide the full, official NACE code and its description.
+o	For each potential secondary code the result can be multiple suggestions
+o	Explain your reasoning for each, again referencing the NACE manual's explanatory notes. If no clear secondary activities are present, state this explicitly.
+3.	Excluded/Alternative Codes (Justification):
+o	List any plausible but ultimately rejected NACE codes.
+o	For each rejected code, briefly explain why it is less appropriate than your primary or secondary selections, using the NACE manual's exclusionary notes (e.g., "This class excludes...") or by highlighting a mismatch with the business description. This demonstrates a thorough differential analysis.
+Stage 2: Consolidated Nature of Business (NoB) Summary
+•	Provide a comprehensive NoB summary that synthesizes all identified activities.
+•	The summary should start by clearly stating the primary business activity, followed by a description of any significant secondary operations.
+•	Base your analysis directly on the business description provided and the NACE codes you have identified.
+•	Ensure the summary clearly defines the company's economic activities, operational scope, and value chain using professional industry language.
+Stage 3: Learning and Refinement
+•	With each classification, you will learn the nuances of different business scenarios. I will provide feedback, and you will refine your analysis process for future requests, becoming more adept at identifying and differentiating primary and secondary activities quickly and accurately.
+Rule:
+•	From each business description If the Secondary code suggestion is 64.20 or 70.10 
+•	Then consider it for Primary Activity Identification
+•	The remaining NACE codes can be suggested in Secondary Activity Identification
+
+Output Format
+
+Primary NACE Code: <Code>
+NACE Description: <Official Description>
+Reasoning:
+- Key activities identified:
+- Mapping logic:
+- Why this code is the best match:
+
+Secondary NACE Code(s) (if applicable):
+- Code – Description 
+– Justification
+
+Confidence Level: High / Medium / Low
